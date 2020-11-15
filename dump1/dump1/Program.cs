@@ -11,6 +11,8 @@ namespace dump1
         static void Main(string[] args)
         {
             Console.WriteLine("hello :)");
+            Console.WriteLine("hello from third commit");
+
         }
     }
 }
